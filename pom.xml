@@ -276,7 +276,7 @@
                                 <requireMavenVersion>
                                     <version>[${min_maven_version},)</version>
                                 </requireMavenVersion>
-                                <DependencyConvergence />
+                                <DependencyConvergence/>
                             </rules>
                         </configuration>
                     </execution>
@@ -440,7 +440,7 @@
         <dependency>
             <groupId>org.bouncycastle</groupId>
             <artifactId>bcpkix-jdk15on</artifactId>
-            <version>1.51</version>
+            <version>1.60</version>
         </dependency>
         <dependency>
             <groupId>com.trilead</groupId>
